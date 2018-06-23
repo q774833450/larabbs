@@ -65,12 +65,12 @@ return [
     |
     */
 
-    'timezone' => 'UTC',
+    'timezone' => 'Asia/Shanghai',
 
     /*
     |--------------------------------------------------------------------------
     | Application Locale Configuration
-    |--------------------------------------------------------------------------
+    |-------------------------------------------------------------------------
     |
     | The application locale determines the default locale that will be used
     | by the translation service provider. You are free to set this value
@@ -78,11 +78,11 @@ return [
     |
     */
 
-    'locale' => 'en',
+    'locale' => 'zh-CN',
 
     /*
     |--------------------------------------------------------------------------
-    | Application Fallback Locale
+    | Application Fallback Locale   
     |--------------------------------------------------------------------------
     |
     | The fallback locale determines the locale to use when the current one
