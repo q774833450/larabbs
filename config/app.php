@@ -1,4 +1,5 @@
 <?php
+require_once __DIR__ . '/helpers.php';
 
 return [
 
@@ -82,7 +83,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Application Fallback Locale   
+    | Application Fallback Locale
     |--------------------------------------------------------------------------
     |
     | The fallback locale determines the locale to use when the current one
